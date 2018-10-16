@@ -1,2 +1,2 @@
-# geekydreams.github.io
+# geekydreams
 Official GeekyDreams website
